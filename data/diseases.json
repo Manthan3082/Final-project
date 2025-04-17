@@ -1,0 +1,65 @@
+{
+    "Common Cold": {
+        "symptoms": {
+            "cough": 1,
+            "sneezing": 1,
+            "sore throat": 1,
+            "fatigue": 1
+        },
+        "advice": "Rest, hydrate, and use over-the-counter meds.",
+        "link": "https://www.cdc.gov/dotw/common-cold/index.html"
+    },
+    "Flu": {
+        "symptoms": {
+            "fever": 2,
+            "chills": 2,
+            "muscle aches": 2,
+            "fatigue": 2,
+            "cough": 1
+        },
+        "advice": "Fluids, rest, and antiviral meds if severe.",
+        "link": "https://www.cdc.gov/flu/symptoms/symptoms.htm"
+    },
+    "Migraine": {
+        "symptoms": {
+            "headache": 3,
+            "nausea": 2,
+            "light sensitivity": 2,
+            "fatigue": 1
+        },
+        "advice": "Dark room, pain relievers, reduce triggers.",
+        "link": "https://www.migrainetrust.org/"
+    },
+    "COVID-19": {
+        "symptoms": {
+            "fever": 2,
+            "cough": 2,
+            "shortness of breath": 3,
+            "loss of smell": 2,
+            "fatigue": 1
+        },
+        "advice": "Isolate, test, monitor symptoms closely.",
+        "link": "https://www.canada.ca/en/public-health/services/diseases/coronavirus-disease-covid-19.html"
+    },
+    "Food Poisoning": {
+        "symptoms": {
+            "diarrhea": 3,
+            "vomiting": 3,
+            "stomach pain": 2,
+            "fever": 1,
+            "nausea": 2
+        },
+        "advice": "Rest, rehydrate, and avoid solid food for a while.",
+        "link": "https://www.cdc.gov/foodsafety/symptoms.html"
+    },
+    "Asthma": {
+        "symptoms": {
+            "shortness of breath": 3,
+            "cough": 2,
+            "chest tightness": 3,
+            "wheezing": 3
+        },
+        "advice": "Use prescribed inhalers. Avoid allergens.",
+        "link": "https://www.cdc.gov/asthma/default.htm"
+    }
+}
